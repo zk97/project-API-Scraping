@@ -1,0 +1,34 @@
+Effect,Type
+Relaxed,positive
+Dizzy,negative
+Hungry,positive
+Euphoric,positive
+Happy,positive
+Depression,medical
+Insomnia,medical
+Pain,medical
+Stress,medical
+Cramps,medical
+Creative,positive
+Energetic,positive
+Talkative,positive
+Lack of Appetite,medical
+Nausea,medical
+Dry Mouth,negative
+Headache,medical
+Uplifted,positive
+Tingly,positive
+Paranoid,negative
+Sleepy,positive
+Fatigue,medical
+Headaches,medical
+Dry Eyes,negative
+Focused,positive
+Eye Pressure,medical
+Anxious,negative
+Giggly,positive
+Aroused,positive
+Inflammation,medical
+Spasticity,medical
+Seizures,medical
+Muscle Spasms,medical
